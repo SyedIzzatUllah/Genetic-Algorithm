@@ -1,7 +1,7 @@
 # Genetic-Algorithm 
 In this notebook, I have implemented different strategies of GA methods.   
 
-# Details:
+# Details:   
 The Genetic Algorithm is a stochastic global search optimization algorithm.
 The algorithm uses analogs of a genetic representation (bitstrings), fitness (function evaluations), genetic recombination (crossover of bitstrings), and mutation (flipping bits).
 
