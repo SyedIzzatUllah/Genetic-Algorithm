@@ -1,5 +1,5 @@
 # Genetic-Algorithm 
-In this notebook, I have implemented different strategies of GA methods. 
+In this notebook, I have implemented different strategies of GA methods.   
 
 # Details:
 The Genetic Algorithm is a stochastic global search optimization algorithm.
