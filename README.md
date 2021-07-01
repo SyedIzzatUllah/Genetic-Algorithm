@@ -1,4 +1,4 @@
-# Genetic-Algorithm
+# Genetic-Algorithm 
 In this notebook, I have implemented different strategies of GA methods. 
 
 # Details:
